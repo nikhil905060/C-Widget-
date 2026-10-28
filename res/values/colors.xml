@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Premium Aesthetic Colors -->
+    <color name="widget_bg_blue">#98AEC9</color>    <!-- Muted Slate Blue -->
+    <color name="widget_box_yellow">#E9D558</color> <!-- Matte Yellow -->
+    <color name="widget_box_orange">#DE8A6D</color> <!-- Soft Peach -->
+    <color name="widget_box_gray">#D4D8DB</color>   <!-- Minimalist Gray -->
+    <color name="text_dark">#1A1A1A</color>         <!-- Charcoal Black for sharp contrast -->
+    <color name="app_bg_dark">#121212</color>       <!-- For Main App UI -->
+</resources>
